@@ -9,3 +9,4 @@ puts "
                  -----------
                     |   |   "
             end
+print display_board
