@@ -9,4 +9,3 @@ print
                  -----------
                     |   |   "
             end
-print display_board
